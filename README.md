@@ -1,5 +1,4 @@
-# Bank
-JavaScript: validando formulários
+## Bank JavaScript: validando formulários 
 Validando com HTML
 Validando com JS
 Desenvolvendo validações
